@@ -1,0 +1,140 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/brasilapi/app/adapters/http_adapter.rb": [
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        6,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        8,
+        8,
+        8,
+        8,
+        null,
+        null,
+        null
+      ],
+      "/brasilapi/app/entities/zipcode_entity.rb": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/brasilapi/app/gateways/zipcode_gateway.rb": [
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/brasilapi/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/brasilapi/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/brasilapi/app/controllers/application_controller.rb": [
+        null,
+        null,
+        0,
+        0
+      ],
+      "/brasilapi/app/entities/error_entity.rb": [
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/brasilapi/app/jobs/application_job.rb": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ],
+      "/brasilapi/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/brasilapi/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1674234311
+  }
+}
